@@ -9,6 +9,6 @@ bootstrap = Bootstrap(app)
 
 #import views
 from views import *
-
+//coba
 if __name__ == '__main__':
     app.run(debug=True)
